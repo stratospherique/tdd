@@ -2,7 +2,7 @@
   "name": "meet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stratospherique.github.io/meet",
+  "homepage": "https://stratospherique.github.io/tdd",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "dependencies": {
